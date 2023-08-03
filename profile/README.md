@@ -9,4 +9,4 @@ The diagram below shows the envisioned interaction between the various services.
 1. easy testing of individual services.
 1. reduced code footprint (we only need to write HTTP endpoints for our services).
 
-![messaging-architecture](../doc/nba-highlights-messaging-architecture.svg)
+![messaging-architecture](doc/nba-highlights-messaging-architecture.svg)
